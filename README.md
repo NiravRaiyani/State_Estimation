@@ -1,4 +1,4 @@
-# Stare_Estimation
+# State_Estimation
 Implementation of Kalman Filter, Extended Kalman Filter and Moving Horizon Estimation to the stirred tank mixing process. This repository uses the same system as the one used in [Implementation and comparison of Advanced process control to stirred tank mixing process](https://github.com/NiravRaiyani/State_Estimation).
 
 
