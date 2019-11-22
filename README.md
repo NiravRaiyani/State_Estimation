@@ -3,7 +3,7 @@ Implementation of Kalman Filter, Extended Kalman Filter and Moving Horizon Estim
 
 
 ## Stirred Tank Mixing Process
-![](assets/mixing.PNG)
+![](assets/mixing.png)
 
 The Continuously stirred mixing tank in the figure has two time-varying inlets F1(t) and F2(t) with
 different density. The density of both the inlets is constant and is given by rho1 and rho2. It is assumed
