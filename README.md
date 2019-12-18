@@ -11,7 +11,7 @@ that the tank is well mixed so that outlet F(t) has the same density as the dens
 rho(t). The volume of the tank occupied by the liquid is V(t) and the corresponding height is h(t)
 with the surface area S. 
 ## Folder Contents 
-* KF
+* KF :
 
 ```KF_3.m```Main File. 
 
@@ -21,7 +21,7 @@ with the surface area S.
 
 ```lin1.m``` To compute Jacobian at different states.
 
-* MHE
+* MHE : For further information about MHE and the code flow kindly refer to [MHE report](assets/document.pdf).
 
 ```MHE_3.m```Main File.
 
@@ -35,4 +35,4 @@ with the surface area S.
 
 Code Flow Diagram for MHE:
 ![](assets/pdf1.png)
-For further information about MHE and the code flow kindly refer to [MHE report](assets/document.pdf)
+
