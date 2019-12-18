@@ -21,7 +21,7 @@ with the surface area S.
 
 ```lin1.m``` To compute Jacobian at different states.
 
-* MHE : For further information about MHE and the code flow kindly refer to [MHE report](assets/document.pdf).
+* MHE : For further information about MHE and the code flow kindly refer to the [MHE report](assets/document.pdf).
 
 ```MHE_3.m```Main File.
 
