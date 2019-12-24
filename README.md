@@ -33,6 +33,6 @@ with the surface area S.
 
 ```sys.m```To calculate one step ahed prediction.
 
-Code Flow Diagram for MHE:
+**Code Flow Diagram for MHE:**
 ![](assets/pdf1.png)
 
